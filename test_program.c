@@ -13,11 +13,11 @@ int main() {
 
     // Add the two numbers
     sum = num1 + num2;
-    product = num1 * num2;
+    product = 2*(num1 * num2);
 
     // Display the result
     printf("Sum of %d and %d is %d\n", num1, num2, sum);
-    printf("product of %d and %d is %d\n", num1, num2, product);
+    printf("2 times product of %d and %d is %d\n", num1, num2, product);
     return 0;
 }
 
