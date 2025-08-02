@@ -18,6 +18,7 @@ int main() {
     // Display the result
     printf("Sum of %d and %d is %d\n", num1, num2, sum);
     printf("2 times product of %d and %d is %d\n", num1, num2, product);
+    printf("testing automated build based on new commit");
     return 0;
 }
 
