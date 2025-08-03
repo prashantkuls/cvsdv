@@ -21,6 +21,7 @@ int main() {
     printf("testing automated build based on new commit\n");
     printf("commit on 03-aug\n");
     printf("commit to test jenkins\n");
+    printf("testing again as on Aug 04, 00:22\n");
     return 0;
 }
 
