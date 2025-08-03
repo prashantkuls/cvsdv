@@ -20,6 +20,7 @@ int main() {
     printf("2 times product of %d and %d is %d\n", num1, num2, product);
     printf("testing automated build based on new commit\n");
     printf("commit on 03-aug\n");
+    printf("commit to test jenkins\n");
     return 0;
 }
 
