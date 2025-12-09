@@ -23,7 +23,7 @@ int main() {
     printf("commit to test jenkins\n");
     printf("testing again as on Aug 04, 00:22\n");
     printf("valication before demo\n");
-    
+    printf("09-Dec-2025: compling remote code directly on github"); 
     return 0;
 }
 
